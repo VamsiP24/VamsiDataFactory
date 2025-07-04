@@ -1,0 +1,11 @@
+{
+	"name": "LSinput1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"containerUri": "https://vamsiblobstorage.blob.core.windows.net/blobcontainer",
+			"authenticationType": "Anonymous"
+		}
+	}
+}
