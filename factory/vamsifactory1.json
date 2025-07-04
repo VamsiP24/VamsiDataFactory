@@ -1,0 +1,9 @@
+{
+	"name": "vamsifactory1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f0b0bc8-2844-4984-8dc9-95ba3af6221d",
+		"tenantId": "43bde54d-c2b8-48f7-a862-661db2467ed7"
+	}
+}
